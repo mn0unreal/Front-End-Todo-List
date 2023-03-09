@@ -21,7 +21,7 @@ body {
     -o-border-radius: 0.625em;
 }
 i {
-    font-size: 20px;
+    /* font-size: 20px; */
     cursor: pointer;
 }
 .none {display: none;}
